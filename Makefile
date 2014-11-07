@@ -1,3 +1,9 @@
+test-install:
+	npm install smsmexico -g
+
+install:
+	npm install ./
+
 test:
 	./node_modules/
 

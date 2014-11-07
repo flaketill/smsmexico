@@ -19,13 +19,17 @@
   ],
   "bugs": {
     "email": "armandoibarra1@gmail.com"
-    ,"url": "https://github.com/flaketill/gnu_linux/issues"
+    ,"url": "https://github.com/flaketill/smsmexico/issues"
   },
   "homepage": "http://artpcweb.appspot.com"
+  ,"repository": {
+    "type": "git",
+    "url": "https://github.com/flaketill/smsmexico.git"
+  }
   ,"licenses": [
     {
       "type": "GLPV3"
-      ,"url": "https://raw.githubusercontent.com/flaketill/gnu_linux/master/LICENSE"
+      ,"url": "https://raw.githubusercontent.com/flaketill/smsmexico/master/LICENSE"
     }
   ]
   ,"readmeFilename": "README.md"
@@ -43,5 +47,5 @@
   ,"peerDependencies": {
     "grunt-cli": "~0.1"
   }
-  ,"main": "smsmexico.js"
+  ,"main": "./index.js",
 }

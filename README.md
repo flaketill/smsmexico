@@ -25,5 +25,6 @@ $ npm install smsmexico
 For install from github
 
 ```bash
-$ npm install git@github.com:flaketill/smsmexico.git
+$ npm install flaketill/smsmexico.git
+
 ```
