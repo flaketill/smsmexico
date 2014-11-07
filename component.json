@@ -1,0 +1,6 @@
+{
+  "name": "smsmexico"
+  ,"version": "0.0.1"
+  ,"description": "Module provides an easy-to-use API for sending SMS messages through http://mensajesmexico.com/ API"
+  ,"main": "smsmexico.js"
+}

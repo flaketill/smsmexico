@@ -1,0 +1,47 @@
+{
+  "name": "smsmexico"
+  ,"version": "0.0.1"
+  ,"description": "Module provides an easy-to-use API for sending SMS messages through http://mensajesmexico.com/ API"
+  ,"author": {
+    "name": "Ing. Armando Ibarra"
+    ,"email": "armandoibarra1@gmail.com"
+    ,"url": "http://artpcweb.appspot.com"
+  }
+  ,"maintainers": [
+    {
+      "name": "Ing. Armando Ibarra"
+      ,"email": "armandoibarra1@gmail.com"
+    }
+  ]
+  ,"keywords": [
+    "sms"
+    ,"text message"
+  ],
+  "bugs": {
+    "email": "armandoibarra1@gmail.com"
+    ,"url": "https://github.com/flaketill/gnu_linux/issues"
+  },
+  "homepage": "http://artpcweb.appspot.com"
+  ,"licenses": [
+    {
+      "type": "GLPV3"
+      ,"url": "https://raw.githubusercontent.com/flaketill/gnu_linux/master/LICENSE"
+    }
+  ]
+  ,"readmeFilename": "README.md"
+  ,"engines": {
+    "node": ">=0.10.29"
+    ,"npm": ">=1.4.14"
+  }
+  ,
+  "devDependencies": {
+    "grunt": "~0.4.5"
+    ,"grunt-contrib-concat": "~0.3.0"
+    ,"matchdep": "~0.1.2"
+    ,"nodeunit": "~0.9.0"
+  }
+  ,"peerDependencies": {
+    "grunt-cli": "~0.1"
+  }
+  ,"main": "smsmexico.js"
+}

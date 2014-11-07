@@ -1,0 +1,31 @@
+                                I N S T A L L
+
+  Requirements
+  ------------
+
+  o  nodejs http://nodejs.org/   
+  o  npm (usually comes with nodejs)
+  o  node v0.6.3+, last tested with v0.8.14
+
+  Dependencies
+  ------------   
+  
+   o  none
+
+  Installation Instructions
+  -------------------------
+
+  With npm on command line:
+  
+    Directly from npm registry https://npmjs.org/ :
+      
+      Go to your node application (your project) and in the same folder write.
+
+      $ npm install smsmexico
+
+
+    If you want get package
+
+      sudo npm install -g .
+
+  
